@@ -6,7 +6,7 @@ Oh? `complete-stack`?
 Glad you asked.
 That means that along with being a full-stack engineer, I fortunately, or unfortunately, also like working on things above and below the usual stack :)
 
-I enjoy and tinkering with devices, operating systems, virtual machines, containers, physical networks, CI/CD, observability, and telemetry.
+I enjoy tinkering with devices, operating systems, virtual machines, containers, physical networks, CI/CD, observability, and telemetry.
 
 ## What I'm currently working on
 I'm currently working on a GNU tar clone in Rust in an attempt to learn the language. Inspired by [Coding Challenges](https://codingchallenges.fyi/).
