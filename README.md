@@ -13,6 +13,8 @@ I'm currently working on a GNU tar clone in Rust in an attempt to learn the lang
 
 I also contribute to Zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry.
 
+I'm also building out my [personal website](https://vrajashkr.gitlab.io/).
+
 ## Technologies I'm working with
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
